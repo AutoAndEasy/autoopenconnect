@@ -90,7 +90,7 @@ fi
 cd $HomeDir || exit 1
 
 apt-get -y update
-apt-get -y openconnect
+apt-get -y install openconnect
 
 _end_msg
 ############  Clean Cache  ############
