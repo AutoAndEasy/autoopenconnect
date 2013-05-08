@@ -1,4 +1,4 @@
-This is use for auto install openconnect on Raspberry PI.
+This is used to install openconnect on RaspberryPI automation.
 
 INSTALL
 1 curl -O https://raw.github.com/AutoAndEasy/autoopenconnect/master/rpi/autoopenconnect-1.0.0-1.rpi.noarch.sh
