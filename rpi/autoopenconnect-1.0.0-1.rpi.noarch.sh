@@ -91,6 +91,7 @@ cd $HomeDir || exit 1
 
 apt-get -y update
 apt-get -y install openconnect
+apt-get -y -f install
 
 _end_msg
 ############  Clean Cache  ############
